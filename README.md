@@ -1,2 +1,2 @@
 # Graduation-Project
-Automated Report Generation Using Scene Graph 
+Automated Radiology Report Generation Using Scene Graphs
